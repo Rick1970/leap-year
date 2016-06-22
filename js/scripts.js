@@ -7,7 +7,6 @@ var leapYear = function(year) {
   }
 };
 
-
 // jQuery user interface logic here.
 $(document).ready(function() {
   $("form#leap-year").submit(function(event) {
